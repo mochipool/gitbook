@@ -4,7 +4,7 @@ description: Your Gateway to Web3.
 
 # Wallets
 
-Wallets are an essential tool for those interested in interacting with Web3 In traditional finance, a wallet is a _physical container_ that **holds money or other assets**, credit cards, cash, your driver’s license, maybe even a photo of a loved one. Similarly, a Web3 wallet is a _digital container_ that holds your **digital assets**, such as cryptocurrencies, tokens, and NFTs. It allows you to **send, receive, manage and interact** with your digital assets on the blockchain, just like a traditional wallet allows you to manage your physical money. They act as your gateway to interacting with Web3 applications, the same way as browsers act as your gateway to the internet (Web2).
+Wallets are an essential tool for those interested in interacting with Web3. In traditional finance, a wallet is a _physical container_ that **holds money or other assets**, credit cards, cash, your driver’s license, maybe even a photo of a loved one. Similarly, a Web3 wallet is a _digital container_ that holds your **digital assets**, such as cryptocurrencies, tokens, and NFTs, and allows you to **send, receive, manage and interact** with your digital assets on the blockchain.
 
 ## Types of Wallets
 
