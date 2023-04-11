@@ -1,5 +1,5 @@
 ---
-description: The gateway to Web3.
+description: Your Gateway to Web3.
 ---
 
 # Wallets
