@@ -43,12 +43,12 @@ Consensus is the mechanism by which all network participants determine which tra
 
 <summary>Proof-of-Work</summary>
 
-* In PoW, a node, also known as miner, to solve a complex mathematical problem, or puzzle, to validate a transaction and add a new block to the blockchain. These puzzles are difficult to solve but easy to verify the correct solution.
+* In PoW, a node, also known as miner, solves a complex mathematical problem, or puzzle, to validate a transaction and add a new block to the blockchain. These puzzles are difficult to solve but easy to verify the correct solution.
 * Once a miner has found the solution to the puzzle, they will be able to broadcast the block to the network where all the other miners will then verify that the solution is correct, and add the block to their copy of the blockchain. This process is called mining, and the miners receive a reward in cryptocurrency for their efforts.
 
 #### Drawbacks
 
-* One drawback of PoW is that it requires a lot of computational power to solve these puzzles, which can lead to high energy consumption and slower transaction speeds. As a result, some blockchain networks are exploring alternative consensus algorithms, such as Proof-of-Stake.
+* One drawback of PoW is that it requires a lot of computational power to solve these puzzles, which can lead to high energy consumption and slower transaction speeds. As a result, some blockchain networks have implemented alternative consensus algorithms, such as Proof-of-Stake.
 
 </details>
 
@@ -57,13 +57,13 @@ Consensus is the mechanism by which all network participants determine which tra
 <summary>Proof-of-Stake</summary>
 
 * PoS is another consensus algorithm used in blockchain networks, where nodes, or validators in this case, are selected to create new blocks based on the amount of cryptocurrency they hold and are willing to “stake”.
-* This is like a group of people holding tickets to a lottery, with the more tickets you have, the more likely you are to be chosen as the winner.
+* This is like a group of people holding tickets to a lottery; the more tickets you have, the more likely you are to be chosen as the winner.
 * In practice, there are a variety of PoS mechanisms which vary based on the blockchain network - some may require validators to lock up funds as collateral, others may use a delegation method where network participants can vote for validators by staking their cryptocurrency to them.
 
 #### Advantages
 
 * Unlike PoW, PoS does not require the nodes - called validators in this case - to solve complex, energy intensive mathematical puzzles to create new blocks.
-* Additionally, PoS allows for faster transaction speeds since validators do not need to wait for blocks to be mined
+* Additionally, PoS allows for faster transaction speeds as there is less contention to produce a block.
 
 #### Drawbacks
 
