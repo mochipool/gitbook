@@ -14,3 +14,7 @@ Cold wallets, on the other hand, are offline wallets that are **not** connected 
 
 * Hardware (HD) wallets are USB-like devices which store and encrypt your wallet on a physical device. They are very secure, and the most resistant to hacks. Examples include HD wallets like Ledger and Trezor.
 * Cold software wallets are called air-gapped wallets, and while offline, your wallet is still stored on a computer. If physically hacked, you can lose your assets.
+
+## Comparison
+
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Pros &#x26; Cons of Hot &#x26; Cold Wallets. Source: crypto.com/university</p></figcaption></figure>
