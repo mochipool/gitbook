@@ -16,7 +16,9 @@ Recall that blockchains ultimately are a tool for securely recording transaction
 2. During that time period, transactions are added to the block.
 3. At the end of the time window, a **hash** is produced of all the transactions.
 4. The block is digitally **signed** by the creator as a form of verification.
-5. **Consensus** occurs, through which the validity and integrity of the block is verified across all blockchain network participants. If successful, the block is added to the blockchain, and the transactions are considered processed.
+5. **Consensus** occurs, through which the validity and integrity of the block is verified across all blockchain network participants. If successful, the block is added to the blockchain, and the transactions are considered processed. The creator of the block is rewarded in the form of cryptocurrency for their service.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Simplified Illustration of How Blockchains Work. Source: Reddit u/steavus</p></figcaption></figure>
 
 ## Key Terms
 
