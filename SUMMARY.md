@@ -6,6 +6,7 @@
   * [Web3 Concepts](introduction/self-custody.md)
 * [Blockchain](blockchain/README.md)
   * [Applications](blockchain/applications.md)
-  * [How Blockchains Work](blockchain/how-blockchains-work.md)
+  * [How Blockchains Work](blockchain/how-it-works.md)
 * [Wallets](wallets/README.md)
   * [How Wallets Work](wallets/how-wallets-work.md)
+  * [Type of Wallets](wallets/type-of-wallets.md)

@@ -1,3 +1,7 @@
+---
+description: Wallets use Cryptography to Secure your Assets.
+---
+
 # How Wallets Work
 
 Web3 wallets use cryptographic technology to interact with the blockchain. Every wallet has a unique public address and a private key. The public address acts like a bank account number, while the private key acts as the password or signature that allows you to access and manage your digital assets.

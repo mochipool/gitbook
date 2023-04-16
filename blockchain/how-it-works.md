@@ -2,7 +2,7 @@
 description: The Inner Machinations of the Blockchain
 ---
 
-# How it Works
+# How Blockchains Work
 
 Let’s break down how blockchain actually works. As with technical concepts, it’s best to explain by example: we’ll walk you through the process which happens when a transaction is submitted to the blockchain.
 
