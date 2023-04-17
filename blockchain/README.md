@@ -4,7 +4,7 @@ description: A Decentralized Digital Ledger, Powering Web3.
 
 # Blockchain
 
-Imagine a group of people who want to keep a shared record of their transactions, but they don't trust any single person to do it. So instead, they each keep a copy of the record in a notebook, and periodically compare them to make sure they're all the same. Whenever someone wants to add a new transaction, they announce it to the group, and everyone adds it to their own copy of the record, on a new page. This way, everyone can see what's happened in the past and no one can change it without the group's agreement.
+Imagine a group of people who want to keep a shared record of their transactions, but they don't trust any single person to do it. So instead, they each keep a copy of the record in a notebook, and periodically compare them to make sure they're all the same. Whenever someone wants to add a new transaction, they announce it to the group, and everyone adds it to their own copy of the record. This way, everyone can see what's happened in the past and no one can change it without the group's agreement.
 
 This is a simplified version of how a decentralized system can work without relying on a central authority, and in a way, the premise of blockchains.
 
@@ -56,7 +56,7 @@ To resolve scalability and sustainability needs, these blockchains have adopted 
 
 <summary><strong>Interoperability</strong></summary>
 
-In addition, third-generation blockchains introduced interoperability, allowing different blockchains to communicate and transfer assets and data seamlessly, enabling a more interconnected and efficient blockchain ecosystem.
+In addition, third-generation blockchains introduced interoperability, allowing different blockchains to communicate and transfer assets and data seamlessly between each other, enabling a more interconnected and efficient blockchain ecosystem.
 
 </details>
 
